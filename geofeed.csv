@@ -3,7 +3,7 @@
 2602:fb3c:10::/44,NL,NL-NH,Amsterdam,
 2602:fb3c:20::/44,KR,KR-11,Seoul,
 2602:fb3c:80::/44,US,US-NJ,,
-2602:fb3c:81::/56,US,US-PA,Phoenixville,
-2602:fb3c:84::/48,US,US-NY,,
-2602:fb3c:90::/44,US,US-TX,Dallas,
-23.144.248.130/32,US,US-PA,Phoenixville,
+2602:fb3c:81::/48,US,US-PA,Phoenixville,19460
+2602:fb3c:81::/56,US,US-PA,Phoenixville,19460
+23.144.248.130/32,US,US-PA,Phoenixville,19460
+199.26.151.0/24,US,US-PA,Phoenixville,19460
