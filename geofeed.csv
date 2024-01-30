@@ -3,6 +3,7 @@
 2602:fb3c:10::/44,NL,NL-NH,Amsterdam,
 2602:fb3c:20::/44,KR,KR-11,Seoul,
 2602:fb3c:80::/44,US,US-NJ,,
+2602:fb3c:80::/56,US,US-PA,Phoenixville,19460
 2602:fb3c:81::/48,US,US-PA,Phoenixville,19460
 2602:fb3c:81::/56,US,US-PA,Phoenixville,19460
 23.144.248.130/32,US,US-PA,Phoenixville,19460
